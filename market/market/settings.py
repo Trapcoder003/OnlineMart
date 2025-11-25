@@ -69,7 +69,7 @@ TEMPLATES = [
 ]
 
 ALLOWED_HOSTS = [
-     onlinemart-hgwn.onrender.com, 
+     'onlinemart-hgwn.onrender.com', 
     'localhost',
     '127.0.0.1'
 ]
